@@ -7,6 +7,11 @@
 
 ### Links and Resources
 
+### Collaborated with:
+*Becca Lee
+*Siobhan Niess
+*Heather Cherewaty
+
 [![Build Status](https://www.travis-ci.com/rkgallaway/03-async.svg?branch=master)](https://www.travis-ci.com/rkgallaway/03-async)
 
 * [repo](https://github.com/rkgallaway/03-async)
