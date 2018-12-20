@@ -11,6 +11,8 @@
 *Becca Lee
 *Siobhan Niess
 *Heather Cherewaty
+*Brent Woodward
+*George Raymond
 
 [![Build Status](https://www.travis-ci.com/rkgallaway/03-async.svg?branch=master)](https://www.travis-ci.com/rkgallaway/03-async)
 
